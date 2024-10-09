@@ -6,7 +6,7 @@ pip install -r requirement.txt
 
 pip install pywin32
 
-python 校园网连接.py
-
 如果在 conda 环境中的 miniconda 中工作。使用 conda 而不是 pip 安装 pywin32。
 conda install pywin32
+
+python 校园网连接.py

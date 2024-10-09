@@ -1,0 +1,2 @@
+# campus_network_connect
+python写的一个tk程序,实现了开机自动后台登录校园网,保存历史记录等功能
